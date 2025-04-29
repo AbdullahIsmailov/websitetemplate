@@ -1,4 +1,4 @@
-# Company Name Website
+# Responsive Website Template
 
 A multilingual website built with HTML, CSS, and JavaScript, featuring a modern and responsive design.
 
